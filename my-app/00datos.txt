@@ -1,0 +1,11 @@
+Verónica Santos Pulpón
+Luis Martín de Vidales Palomero
+g819
+
+Las mejoras incluidas en el proyecto son:
+
+La personalización del CSS con animaciones en pantalla de carga, unos botones chulísimos etc. 
+
+Implementación de un botón de reset que pide nuevas preguntas, reiniciando con ello el juego.
+
+Implementación de una cuenta atrás que limita el tiempo que tiene el usuario para responder a las preguntas en la cual, si el tiempo se acaba, termina el juego. Cuando le damos al botón "Contrarreloj" se piden nuevas preguntas al servidor, para evitar que el jugador conteste a las preguntas antes de empezar la cuenta atrás. Los botones de comprobar y reset siguen teniendo sus funciones habituales, y si se les da durante el modo contrarreloj la cuenta atrás se resetea y se vuelve al inicio del juego con la cuenta atrás parada.
